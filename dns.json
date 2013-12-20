@@ -1,0 +1,81 @@
+{
+  'name': 'www',
+  'value': {
+    'translate': ''
+  }
+}, {
+  'name': 'localhost',
+  'value': {
+    'translate': ''
+  }
+}, {
+  'name': 'ipv4',
+  'value': {
+    'ip': '208.113.212.187'
+  }
+}, {
+  'name': 'ipv6-2',
+  'value': {
+    'ip6': ['2607:f298:5:102b::ddb:b09e',
+      '2607:f298:5:102b::af3:5aa3'
+    ]
+  }
+}, {
+  'name': 'ipv6',
+  'value': {
+    'ip6': '2607:f298:5:102b::ddb:b09e'
+  }
+}, {
+  'name': 'ipv4-2',
+  'value': {
+    'ip': ['208.113.212.187', '208.113.212.1s87']
+  }
+}, {
+  'name': 'bits',
+  'value': {
+    'ip': ['208.113.212.187'],
+    'cors': ['speech.is']
+  }
+}, {
+  'name': '_setting',
+  'value': {
+    'name': 'subscriber name',
+    'url': 'jsDNS url'
+  }
+}, {
+  'name': 'reddit',
+  'value': {
+    'translate': 'http://www.reddit.com'
+  }
+}, {
+  'name': 'aaronsw',
+  'value': {
+    'translate': 'http://www.aaronsw.com/'
+  }
+}, {
+  'name': 'wikipedia',
+  'value': {
+    'translate': 'http://www.wikipedia.org'
+  }
+}, {
+  'name': 'accessnow',
+  'value': {
+    'translate': 'http://www.accessnow.org'
+  }
+}, {
+  'name': 'indolering',
+  'value': {
+    'ip': ['208.113.212.21'],
+    'cors': ['speech.is']
+  }
+}, {
+  'name': 'fightforthefuture',
+  'value': {
+    'translate': 'http://www.fightforthefuture.org/'
+  }
+}, {
+  'name': 'internetdefenseleague',
+  'value': {
+    'translate': 'http://internetdefenseleague.org'
+  }
+  };
